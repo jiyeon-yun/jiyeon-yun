@@ -10,7 +10,7 @@
 <p align="left"> <img src=	http://www.kpu.ac.kr/front/images/header_logo.png></p>
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
+- 🔭 I’m currently working on **mealing**
 - 🌱 I’m currently learning ... **JS**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
