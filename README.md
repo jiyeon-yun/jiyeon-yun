@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Student from Korea</h3>
 <h3 align="center">Major in Business Administration, Multiple Majors in Software Engineering (To be graduated in 2024)</h3>
-<p align="left"> <img src=	http://www.kpu.ac.kr/front/images/header_logo.png></p>
+<p align="middle"> <img src=	http://www.kpu.ac.kr/front/images/header_logo.png></p>
 
 
 - 🔭 I’m currently working on **mealing**
