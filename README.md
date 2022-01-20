@@ -40,5 +40,5 @@
 
 
 <p align="center">
-<a href=https://www.instagram.com/_zidus/_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_zidus" height="40" width="40" /></a>
+<a href=https://www.instagram.com/_zidus/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_zidus" height="40" width="40" /></a>
 </p>
